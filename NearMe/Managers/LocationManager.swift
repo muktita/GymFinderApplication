@@ -41,6 +41,7 @@ class LocationManager: NSObject, ObservableObject {
         locationManager.startUpdatingLocation()
     }
     
+    
 }
 
 // Extension that conforms to CLLocationManagerDelegate

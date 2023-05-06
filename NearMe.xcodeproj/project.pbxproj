@@ -489,6 +489,8 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = /Users/muktita/Desktop/NearMe/info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Gym NearMe";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.productivity";
 				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "NearMe requires your location to provide better recommendation";
 				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "NearMe require location";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -523,6 +525,8 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = /Users/muktita/Desktop/NearMe/info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Gym NearMe";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.productivity";
 				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "NearMe requires your location to provide better recommendation";
 				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "NearMe require location";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;

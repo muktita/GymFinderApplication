@@ -15,6 +15,7 @@ struct LandmarkViewModel: Identifiable {
     
     // The landmark's ID
     let id = UUID()
+    
     // Get the landmark's name
     var name: String {
         placemark.name ?? ""
@@ -28,5 +29,7 @@ struct LandmarkViewModel: Identifiable {
     var coordinate: CLLocationCoordinate2D {
         placemark.coordinate
     }
+    
+    
     
 }
