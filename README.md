@@ -26,3 +26,7 @@ Upon launching the app, users instantly spot the closest outdoor gym, encouragin
 
 Feel free to explore and contribute to GymFinderApplication!
 
+## Use Case Diagram
+![Use Case Diagram](path/to/use-case-diagram.png)
+
+Here is a simple Use Case Diagram representing the interactions between users and the GymFinderApplication.
