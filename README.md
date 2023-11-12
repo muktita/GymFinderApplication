@@ -31,3 +31,13 @@ Feel free to explore and contribute to GymFinderApplication!
 
 
 Here is a simple Use Case Diagram representing the interactions between users and the GymFinderApplication.
+
+## Class Diagram
+![Screenshot 2023-11-12 at 2 10 04 AM](https://github.com/muktita/GymFinderApplication/assets/78444922/c0a223ad-1df3-467a-b86c-48dda3473228)
+The Class Diagram illustrates the structure of classes and their relationships within the GymFinderApplication.
+
+## Home Screen 
+![Screenshot 2023-11-12 at 2 09 51 AM](https://github.com/muktita/GymFinderApplication/assets/78444922/9b63c6cc-ee1a-41af-9fd5-f76ea446b789)
+
+![Screenshot 2023-11-12 at 2 10 31 AM](https://github.com/muktita/GymFinderApplication/assets/78444922/22af2648-4fe5-4ebf-bb58-e665060ca492)
+Users can easily discover nearby gyms by entering keywords into the search bar, such as "gym." Upon pressing enter, the Home Screen displays various gym locations in the area.
