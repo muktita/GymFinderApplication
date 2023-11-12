@@ -27,6 +27,7 @@ Upon launching the app, users instantly spot the closest outdoor gym, encouragin
 Feel free to explore and contribute to GymFinderApplication!
 
 ## Use Case Diagram
-![Use Case Diagram](https://github.com/muktita/GymFinderApplication/issues/1#issue-1989337877)
+![Screenshot 2023-11-12 at 2 10 14 AM](https://github.com/muktita/GymFinderApplication/assets/78444922/b55faed2-5746-48f3-8bae-943ec923071b)
+
 
 Here is a simple Use Case Diagram representing the interactions between users and the GymFinderApplication.
