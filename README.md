@@ -54,8 +54,9 @@ Explore nearby gym locations effortlessly:
 
 The application offers a unique feature allowing users to add their favorite gym easily:
 
+
+![Screenshot 2023-11-12 at 2 10 51 AM](https://github.com/muktita/GymFinderApplication/assets/78444922/5aba6d3d-c392-4d36-b783-b078cc2b2403)
+
 1. Navigate to the "Favorite Location" tab at the bottom of the screen.
 2. Clicking on it prompts a new screen, where users can input the name and address of their favorite gym.
 
-
-![Screenshot 2023-11-12 at 2 10 51 AM](https://github.com/muktita/GymFinderApplication/assets/78444922/5aba6d3d-c392-4d36-b783-b078cc2b2403)
