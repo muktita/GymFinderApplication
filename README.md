@@ -38,11 +38,14 @@ The Class Diagram illustrates the structure of classes and their relationships w
 
 ## Home Screen 
 ![Screenshot 2023-11-12 at 2 09 51 AM](https://github.com/muktita/GymFinderApplication/assets/78444922/9b63c6cc-ee1a-41af-9fd5-f76ea446b789)
+
 ![Screenshot 2023-11-12 at 2 10 31 AM](https://github.com/muktita/GymFinderApplication/assets/78444922/22af2648-4fe5-4ebf-bb58-e665060ca492)
 
 Users can easily discover nearby gyms by entering keywords into the search bar, such as "gym." Upon pressing enter, the Home Screen displays various gym locations in the area.
 
 Explore nearby gym locations effortlessly:
+
+
 ![Screenshot 2023-11-12 at 2 10 40 AM](https://github.com/muktita/GymFinderApplication/assets/78444922/38b7df4a-fb59-460e-883d-4d000f4c81ae)
 
 - Use the map view for a visual overview.
