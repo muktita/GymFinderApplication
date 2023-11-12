@@ -6,13 +6,11 @@ GymFinderApplication is your go-to solution for discovering nearby outdoor gyms 
 
 Upon launching the app, users instantly spot the closest outdoor gym, encouraging a quick start to their workout routine. The main view features a menu bar, search function, add location button, and a convenient arrow for swift navigation to the user's current location.
 
-## Tech Stacks
-
 - We aim to deliver an exceptional mobile experience.
 - Choosing Swift and SwiftUI ensures our app's seamless performance on iOS.
 - Our tech stack is tailored for Apple's ecosystem, providing a smooth user experience.
 
-## Technical Insights
+## Technical Stack
 
 - Swift, Apple's language of choice, powers our app for iOS.
 - The application development relies on MapKit for precise location data and geocoding.
