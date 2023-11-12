@@ -41,7 +41,6 @@ The Class Diagram illustrates the structure of classes and their relationships w
 
 ![Screenshot 2023-11-12 at 2 10 31 AM](https://github.com/muktita/GymFinderApplication/assets/78444922/22af2648-4fe5-4ebf-bb58-e665060ca492)
 
-Users can easily discover nearby gyms by entering keywords into the search bar, such as "gym." Upon pressing enter, the Home Screen displays various gym locations in the area.
 
 Explore nearby gym locations effortlessly:
 
@@ -50,3 +49,13 @@ Explore nearby gym locations effortlessly:
 
 - Use the map view for a visual overview.
 - Opt for the "List" option to view locations in an easy-to-read list format.
+  
+## Favorite Gym Feature
+
+The application offers a unique feature allowing users to add their favorite gym easily:
+
+1. Navigate to the "Favorite Location" tab at the bottom of the screen.
+2. Clicking on it prompts a new screen, where users can input the name and address of their favorite gym.
+
+
+![Screenshot 2023-11-12 at 2 10 51 AM](https://github.com/muktita/GymFinderApplication/assets/78444922/5aba6d3d-c392-4d36-b783-b078cc2b2403)
